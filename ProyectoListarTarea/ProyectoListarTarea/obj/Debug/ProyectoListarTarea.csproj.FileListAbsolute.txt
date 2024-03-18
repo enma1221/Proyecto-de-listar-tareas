@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\bin\Debug\ProyectoListarTarea.exe.config
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\bin\Debug\ProyectoListarTarea.exe
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\bin\Debug\ProyectoListarTarea.pdb
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.Login.resources
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.exe
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.pdb
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.FrmRegister.resources
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.FrmInterfaz.resources
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.AgregarTareas.resources
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.Modificar.resources
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.VerTareas.resources
+C:\Users\Lenovo\Desktop\Curso Programacion C#\ProyectoListarTarea\ProyectoListarTarea\obj\Debug\ProyectoListarTarea.Marcadas.resources
